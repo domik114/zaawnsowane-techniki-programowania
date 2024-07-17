@@ -1,0 +1,13 @@
+__pycache__/
+srodowisko/
+*.md
+img/
+prod/
+test/
+z5/
+zad6/zad/
+zad6/r.dll
+*.docx
+*.pdf
+*.rar
+*.zip
